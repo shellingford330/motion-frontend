@@ -15,7 +15,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "@chakra-ui/react": "^1.8.1",
+    "@chakra-ui/react": "^1.8.3",
     "@emotion/react": "^11",
     "@emotion/styled": "^11",
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
@@ -30,7 +30,7 @@
     "@tensorflow/tfjs-converter": "^3.13.0",
     "@tensorflow/tfjs-core": "^3.13.0",
     "@tensorflow/tfjs-node": "^3.13.0",
-    "@types/styled-components": "^5.1.21",
+    "@types/styled-components": "^5.1.22",
     "@vladmandic/face-api": "^1.6.4",
     "face-api.js": "^0.22.2",
     "framer-motion": "^5",
@@ -50,7 +50,7 @@
     "webrtc-adapter": "^8.1.1"
   },
   "devDependencies": {
-    "@types/node": "17.0.14",
+    "@types/node": "17.0.15",
     "@types/react": "17.0.39",
     "babel-plugin-styled-components": "^2.0.2",
     "eslint": "8.7.0",
